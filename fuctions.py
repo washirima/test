@@ -6,3 +6,4 @@ def addNumber (a, b):
 
 print(addNumber(5,6))
 
+# fuction make coding easy
