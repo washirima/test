@@ -10,3 +10,4 @@ elif x == 5:
     print ('x is bigger than 10 or equal')
 
 # this is lovely
+# AM LEARNING FIRST
